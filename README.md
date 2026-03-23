@@ -10,7 +10,7 @@ i3_typing_master is a web-based application designed to help users test and impr
 5)	List of test results for a user	=> jingpo1111
 6)	User typing test screen	=> BroCNR
 7)	About Us screen		=> Phynann
-8)	README.md 			=> horleang962 -dev # i3_typing_master
+8)	README.md 			=> horleang962 -dev 
 
 ##  Features
 - User Registration
